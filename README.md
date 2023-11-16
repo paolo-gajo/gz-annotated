@@ -1,4 +1,4 @@
-# Annotation guidelines:
+## Annotation guidelines:
 
 Annotate the recipes (accessible through the URLs in the 'Link' column) listed in the dataset.
 

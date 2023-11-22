@@ -35,11 +35,11 @@ and a web browser to complete the task (e.g., Chrome, Firefox, Safari).
 1. Download the file `FoodDataset_shuffled_4annotation.tsv` and open it with 
 your favourite spreadsheet program.
 
-You will see 4 columns: 
-- **ID** is a unique id for internal purposes (you can ignore it)
-- **Name** is the name of the dish that you are going to judge
-- **Link** contains a link to the recipe describing the dish
-- **Traditional** is empty. It is here where you have to input your decision
+	You will see 4 columns: 
+	- **ID** is a unique id for internal purposes (you can ignore it)
+	- **Name** is the name of the dish that you are going to judge
+	- **Link** contains a link to the recipe describing the dish
+	- **Traditional** is empty. It is here where you have to input your decision
 
 2. For each of the rows in the file, open the link with your favourite web 
 browser and analyse the ingredients and the process to prepare the dish. Write 

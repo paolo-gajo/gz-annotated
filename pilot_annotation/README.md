@@ -7,16 +7,16 @@ understand how people assess and perceive food.
 ## Your task
 
 We ask you to determine which of the dishes that you are presented with are 
-(authentically) regional or not, within the Italian cuisine
+(authentically) regional or not from the point of view of the Italian cuisine.
 
 Please, consider the following **definition** to guide your judgment for each of 
 the dishes:
 
-| A regional dish should evoke a sense of belonging to the specific territory 
-| in which it was originated. An authentic regional dish has to be  deeply 
-| rooted in a region or local population. It must have been prepared over a 
-| long period of time with a well defined list of ingredients and through 
-| specific and populary well accepted preparation process (recipe).  
+> A regional dish should evoke a sense of belonging to the specific territory 
+> in which it was originated. An authentic regional dish has to be  deeply 
+> rooted in a region or local population. It must have been prepared over a 
+> long period of time with a well defined list of ingredients and through 
+> specific and populary well accepted preparation process (recipe).  
 
 ### Examples
 

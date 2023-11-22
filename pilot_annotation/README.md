@@ -36,19 +36,21 @@ and a web browser to complete the task (e.g., Chrome, Firefox, Safari).
 your favourite spreadsheet program.
 
 	You will see 4 columns: 
-	- **ID** is a unique id for internal purposes (you can ignore it)
-	- **Name** is the name of the dish that you are going to judge
-	- **Link** contains a link to the recipe describing the dish
-	- **Traditional** is empty. It is here where you have to input your decision
+	- **ID** is a unique id, used for internal purposes (you can ignore it).
+	- **Name** is the name of the dish that you are going to judge.
+	- **Link** contains a link to the recipe describing the dish.
+	- **Traditional** is empty; it is here where you have to input your decision
 
 2. For each of the rows in the file, open the link with your favourite web 
 browser and analyse the ingredients and the process to prepare the dish. Write 
-a **1** in the traditional column if you think the dish is an authentic 
-regional dish, according to the definition above; write **0** otherwise.
+a **1** in the Traditional column if you think the dish is an authentic regional 
+Italian dish, according to the definition above; write **0** otherwise.
 
-3. Once this is done, please send the compiled file to artusi@raclette.com
+3. Once you are done, please send the compiled file to artusi@raclette.com
 
-**Suggestion**: do not to this right before/after lunch!
+If you have questions/comments, do not hesitate to get in touch.
+
+**Suggestion**: do not to this right before lunch/dinner!
 
 Thanks again!
 
